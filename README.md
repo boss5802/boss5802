@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boss5802 (Leo)
+- 👋 Hi, I’m Leo.
 - 👀 I’m interested in programming, videogame development, and web development.
 - 🌱 I’m currently learning python!
 - 💞️ I’m open for collaboration, I am most skilled in Python, Unity Game Engine, and basic HTML & CSS web development.  
