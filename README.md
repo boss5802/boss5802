@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leo.
 - 👀 I’m interested in programming, videogame development, and web development.
 - 🌱 I’m currently learning python!
-- 💞️ I’m open for collaboration, I am most skilled in Python, Unity Game Engine, and basic HTML & CSS web development.  
+- 💞️ I’m open for collaboration. I am most skilled in Python, Unity Game Engine, and basic HTML & CSS web development.  
 - 📫 The best way to reach me is at leokumar@outlook.com
 
 <!---
